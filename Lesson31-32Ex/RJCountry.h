@@ -14,6 +14,4 @@
 
 +(RJCountry *)randomCountryFromArray:(NSArray *)array;
 
-- (void)testMethodForGit;
-
 @end
