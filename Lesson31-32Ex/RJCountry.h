@@ -13,4 +13,7 @@
 @property (assign, nonatomic) NSInteger rank;
 
 +(RJCountry *)randomCountryFromArray:(NSArray *)array;
+
+- (void)testMethodForGit;
+
 @end
