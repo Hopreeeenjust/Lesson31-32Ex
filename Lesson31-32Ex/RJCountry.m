@@ -25,4 +25,8 @@
     return country;
 }
 
+- (void)dealloc {
+    NSLog(@"RJCountry object has been dealloced");
+}
+
 @end
